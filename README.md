@@ -1,4 +1,4 @@
-# MinisumoAmateur
+# MinisumoPrincipiante
 ROBOT MINISUMO DE WORLD DEVELOPERS MAKER 
 Este repositorio contiene el código fuente de un robot autónomo educativo, desarrollado para un tutorial paso a paso. El robot está diseñado para:
 
