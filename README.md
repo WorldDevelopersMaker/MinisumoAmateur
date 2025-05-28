@@ -2,6 +2,8 @@
 ROBOT MINISUMO DE WORLD DEVELOPERS MAKER 
 Este repositorio contiene el código fuente de un robot autónomo educativo, desarrollado para un tutorial paso a paso. El robot está diseñado para:
 
+https://github.com/WorldDevelopersMaker/MinisumoAmateur/issues/1#issue-3095622144
+
 Detectar líneas en el suelo mediante sensores infrarrojos (evita zonas negras).
 
 Detectar obstáculos mediante sensores ultrasónicos HC-SR04.
